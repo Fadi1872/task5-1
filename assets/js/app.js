@@ -71,3 +71,6 @@ deleteNum.addEventListener('click', event => {
         };
     };
 });
+
+
+
